@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["now","Date","log","string","func","console"],"mappings":";AAAA,IAAMA,EAAMC,KAAKD,MAEXE,EAAM,SAACC,EAAQC,GAAT,OAAkBC,QAAQH,IAAIC,EAAQC,IAElDF,EAAI,MAAOF","file":"src.da09893d.js","sourceRoot":"..","sourcesContent":["const now = Date.now()\n\nconst log = (string, func) => console.log(string, func)\n\nlog('now', now)"]}
